@@ -23,3 +23,5 @@ SQLAlchemy==1.4.27
 urllib3==1.26.3
 Werkzeug==2.0.2
 WTForms==2.3.3
+PyJWT<3.0,>=2.0
+greenlet!=0.4.17
